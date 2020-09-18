@@ -1,4 +1,5 @@
 # Cryptomage
 
-  A desktop application developed using python that enables secure image transmission between the sender and receiver. 
-  A digital signature - SHA is used to makesure that the image is intact and a hybrid cryptosystem - AES+RSA is used to ensure safe image transmission. PyQt is used for GUI.
+  A desktop application developed using python that provides secure image transmission between the sender and receiver. 
+  A digital signature (SHA) was used to verify integrity of the image and a hybrid cryptosystem (AES + RSA) for
+end-to-end encryption. PyQt is used for GUI.
